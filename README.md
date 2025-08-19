@@ -1,6 +1,6 @@
 # Credit_Card-Fraud-Detection_using_ML
 
-🚨 Detecting Credit Card Fraud with Machine Learning
+🚨 Detecting Credit Card Fraud with Machine Learning Using Traditional Method
 
 💳 Turning raw data into real-world protection.
 Have you ever imagined waking up to find your account drained due to fraud — in a country you’ve never even visited?
