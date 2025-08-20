@@ -1,4 +1,4 @@
-# Credit_Card-Fraud-Detection_using_ML
+# Credit_Card-Fraud-Detection_using_Traditional_Approach_of_ML
 
 🚨 Detecting Credit Card Fraud with Machine Learning Using Traditional Method
 
